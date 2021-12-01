@@ -42,6 +42,7 @@ steps:
     image: 'node'
     working_directory: "${{clone}}"
     commands:
+      - npm install @semantic-release/git @semantic-release/changelog -D
       - npx semantic-release
 
   test:
