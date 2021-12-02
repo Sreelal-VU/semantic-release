@@ -1,3 +1,10 @@
+# [1.7.0-8thversion.1](https://github.com/Sreelal-VU/semantic-release/compare/v1.6.0...v1.7.0-8thversion.1) (2021-12-02)
+
+
+### Features
+
+* 7th change ([7b39a8f](https://github.com/Sreelal-VU/semantic-release/commit/7b39a8ff73eca32a3f5961336b2b6f6bfcbbf017))
+
 # [1.7.0](https://github.com/Sreelal-VU/semantic-release/compare/v1.6.0...v1.7.0) (2021-12-02)
 
 
