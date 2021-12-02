@@ -1,3 +1,29 @@
+# [1.2.0-1stversion.1](https://github.com/Sreelal-VU/semantic-release/compare/v1.1.0...v1.2.0-1stversion.1) (2021-12-02)
+
+
+### Bug Fixes
+
+* **beatchange:** beta change ([80eeb67](https://github.com/Sreelal-VU/semantic-release/commit/80eeb6771e2c3c9f91194c932a06cd6c1300be44))
+
+
+### Features
+
+* beta release ([249d3b9](https://github.com/Sreelal-VU/semantic-release/commit/249d3b980a56f07fdc5a22572a3dffae60f401c0))
+
+## [1.2.1](https://github.com/Sreelal-VU/semantic-release/compare/v1.2.0...v1.2.1) (2021-12-02)
+
+
+### Bug Fixes
+
+* **beatchange:** beta change ([80eeb67](https://github.com/Sreelal-VU/semantic-release/commit/80eeb6771e2c3c9f91194c932a06cd6c1300be44))
+
+# [1.2.0](https://github.com/Sreelal-VU/semantic-release/compare/v1.1.0...v1.2.0) (2021-12-01)
+
+
+### Features
+
+* beta release ([249d3b9](https://github.com/Sreelal-VU/semantic-release/commit/249d3b980a56f07fdc5a22572a3dffae60f401c0))
+
 # [1.1.0](https://github.com/Sreelal-VU/semantic-release/compare/v1.0.0...v1.1.0) (2021-12-01)
 
 
