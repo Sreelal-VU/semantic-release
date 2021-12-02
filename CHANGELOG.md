@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/Sreelal-VU/semantic-release/compare/v1.2.1...v1.3.0) (2021-12-02)
+
+
+### Features
+
+* **2nd release:** 2nd release ([03c6441](https://github.com/Sreelal-VU/semantic-release/commit/03c6441556c20733e43452855baf2bbe782d310e))
+
 # [1.2.0-1stversion.1](https://github.com/Sreelal-VU/semantic-release/compare/v1.1.0...v1.2.0-1stversion.1) (2021-12-02)
 
 
