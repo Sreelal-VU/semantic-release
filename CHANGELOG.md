@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/Sreelal-VU/semantic-release/compare/v1.2.0...v1.2.1) (2021-12-02)
+
+
+### Bug Fixes
+
+* **beatchange:** beta change ([80eeb67](https://github.com/Sreelal-VU/semantic-release/commit/80eeb6771e2c3c9f91194c932a06cd6c1300be44))
+
 # [1.2.0](https://github.com/Sreelal-VU/semantic-release/compare/v1.1.0...v1.2.0) (2021-12-01)
 
 
