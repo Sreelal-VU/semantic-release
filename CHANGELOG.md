@@ -1,3 +1,10 @@
+# [1.8.0-8version.1](https://github.com/Sreelal-VU/semantic-release/compare/v1.7.0...v1.8.0-8version.1) (2021-12-02)
+
+
+### Features
+
+* **8ver:** 8ver ([bf31a88](https://github.com/Sreelal-VU/semantic-release/commit/bf31a8889dd17d9e65af7998cdadc5ade1fdc745))
+
 # [1.8.0](https://github.com/Sreelal-VU/semantic-release/compare/v1.7.0...v1.8.0) (2021-12-02)
 
 
