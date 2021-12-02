@@ -1,3 +1,10 @@
+# [1.5.0-4thversion.1](https://github.com/Sreelal-VU/semantic-release/compare/v1.4.0...v1.5.0-4thversion.1) (2021-12-02)
+
+
+### Features
+
+* 4th change ([daf2224](https://github.com/Sreelal-VU/semantic-release/commit/daf22244eb26685f1a7ce3202052b01469ed178e))
+
 # [1.5.0](https://github.com/Sreelal-VU/semantic-release/compare/v1.4.0...v1.5.0) (2021-12-02)
 
 
